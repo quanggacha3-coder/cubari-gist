@@ -1,1 +1,19 @@
-
+{
+  "title": "Goon, Randomshit,what ever",
+  "description": "Oooga Booga",
+  "artist": "Random",
+  "author": "Random",
+  "cover": "https://cdn.save.moe/b/EFGCR.jpg?dl=1",
+  "chapters": {
+    "1": {
+      "title": "Testing",
+      "volume": "",
+      "last_updated": "1772111540",
+      "groups": {
+        "": [
+          "https://cdn.save.moe/s11/Dte2w1ii.mp4?dl=1"
+        ]
+      }
+    }
+  }
+}
